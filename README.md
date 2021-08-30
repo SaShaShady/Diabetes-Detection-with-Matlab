@@ -4,11 +4,17 @@ A project which detects diabetes using the Support Vector Machines in Matlab
 STEP 1----------------------------------------
 
 Data Set and Feature Engineering:
+
 I got the dataset from Kaggle : https://www.kaggle.com/uciml/pima-indians-diabetes-database
+
 On this Dataset, I did some Feature Engineering such as 
+
 a. Checking if there is any null value present
+
 b. Scaling the features
+
 c. Handling the null and 0 values present in the dataset and replacing them with the average value of that column
+
 d. Repeating the same steps for the test data set as well. 
 
 STEP 2---------------------------------------
